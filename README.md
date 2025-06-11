@@ -27,6 +27,7 @@ The 9/11 Realtime Experience: an immersive, real-time experience of publicly ava
 
 [Visit the Site](https://911realtime.org/) | [View the Repo](https://github.com/Keeping-History/rt911)
 
+<br clear="left"/>
 
 ### KeepingHistory.org
 <img src="https://github.com/user-attachments/assets/624af720-81e5-4a18-ad03-d495a83e26ae" width="350" align="left" />
@@ -34,6 +35,8 @@ The 9/11 Realtime Experience: an immersive, real-time experience of publicly ava
 Keeping History is an open source initiative to save, categorize and analyze history through multimedia. Keeping History is a collection of engineers who aim to save history.
 
 [Visit the Site](https://keepinghistory.org/) | [View our Github](http://github.com/keeping-history/)
+
+<br clear="left"/>
 
 ### Aye-Aye!
 <img src="https://github.com/user-attachments/assets/41344461-2809-4461-b9ee-a5980948bf1a" width="350" align="left" />
@@ -44,6 +47,8 @@ The game consists of three distinct rounds: the &#34;letters&#34; round, where p
 
 [Play Aye-Aye Now!](https://aye-aye.robbiebyrd.com) | [View the Repo](https://github.com/robbiebyrd/aye-aye/)
 
+<br clear="left"/>
+
 ### MOOMP
 <img src="https://github.com/user-attachments/assets/49b0d88c-3e8b-4dda-829f-0e47692db5d3" width="350" align="left" />
 
@@ -53,6 +58,7 @@ MOOMP was inititally created as a test-bed for autonomous, game-playing AI agent
 
 [View the Repo](https://github.com/robbiebyrd/moomp/)
 
+<br clear="left"/>
 
 ### Classicy
 <img src="https://github.com/user-attachments/assets/7df101a1-d70c-41ab-a6de-893a06ef978b" width="350" align="left" />

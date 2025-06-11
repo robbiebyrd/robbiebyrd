@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi! I'm Robbie Byrd
+
+I'm a seasoned Software Engineer with over 20 years of experience. I live in Austin, TX with my husband and our three dogs.
+
+<img src="https://github.com/user-attachments/assets/54c180c2-8519-4d18-a6b0-5bf1277dd21e" height="100">
+
+
 
 <!--
 **robbiebyrd/robbiebyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

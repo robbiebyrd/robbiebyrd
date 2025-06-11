@@ -1,8 +1,13 @@
 <h1>Hi! I'm Robbie Byrd</h1>
 
+<img src="https://github.com/user-attachments/assets/4cc3ca61-d372-4703-80c7-ed9683dc2d90" width="350" align="left" />
+I'm a seasoned Software Engineer with over 20 years of experience. 
+
+<br clear="left"/> 
+
 ## About me
   <img src="https://github.com/user-attachments/assets/11ee1b5e-0c46-4f5d-bfbd-d42a3709a3b7" width="350" align="left" />
-  I'm a seasoned Software Engineer with over 20 years of experience. I live in Austin, TX with my husband and our three dogs.
+  I live in Austin, TX with my husband and our three dogs.
 <br clear="left"/> 
 <br clear="left"/>
   <img src="https://github.com/user-attachments/assets/9b52a560-f3f9-4370-b581-512f967489ce" width="350" align="left" />

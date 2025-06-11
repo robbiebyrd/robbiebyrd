@@ -20,6 +20,21 @@
 
 ## My Projects
 
+### 911realtime.org
+<img src="https://github.com/user-attachments/assets/110a58b0-f4ec-4496-a326-df98fea5044c" width="350" align="left" />
+
+The 9/11 Realtime Experience: an immersive, real-time experience of publicly available media from September 11, 2001.
+
+[Visit the Site](https://911realtime.org/) | [View the Repo](https://github.com/Keeping-History/rt911)
+
+
+### KeepingHistory.org
+<img src="https://github.com/user-attachments/assets/624af720-81e5-4a18-ad03-d495a83e26ae" width="350" align="left" />
+
+Keeping History is an open source initiative to save, categorize and analyze history through multimedia. Keeping History is a collection of engineers who aim to save history.
+
+[Visit the Site](https://keepinghistory.org/) | [View our Github](http://github.com/keeping-history/)
+
 ### Aye-Aye!
 <img src="https://github.com/user-attachments/assets/41344461-2809-4461-b9ee-a5980948bf1a" width="350" align="left" />
 
@@ -46,8 +61,7 @@ Classicy is a collection of React components that make it easy to add a customiz
 
 Classicy is a Webtop, framework. It provides a simulated desktop environment in a web browser. Classicy also provides a powerful and easy-to-use framework and library of components to “Classicyze” any React application. Classicy’s components are written in Typescript, and can be used with any React framework. Classicy emulates all the common items of a true Operating System and Graphical User Interface.
 
-[See a Demo!](https://demo.classicy.ing/) |  [Visit the Official Site](https://classicy.ing/) | [View the Repo](https://github.com/robbiebyrd/classicy/)
-
+[See a Demo!](https://demo.classicy.ing/) |  [Visit the Site](https://classicy.ing/) | [View the Repo](https://github.com/robbiebyrd/classicy/)
 
 <!--
 **robbiebyrd/robbiebyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

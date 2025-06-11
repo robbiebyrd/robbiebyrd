@@ -54,6 +54,18 @@ The game consists of three distinct rounds: the &#34;letters&#34; round, where p
 
 <br clear="left"/>
 
+
+### Stirling Engine
+<img src="https://github.com/user-attachments/assets/9f8a2bd3-c3e5-4a00-98b6-365f3433b366" width="350" align="left" />
+
+The Stirling Engine is meant to be a lightweight, efficient way to process incoming media files. A Stirling Job can normalize uploaded media, extract data from the media and analyze it for additional data enhancements, such as subtitles or metadata.
+
+Stirling also can re-encode media using modern, stream-ready standards, and package media and metadata in a standard, open format.
+
+[View the Repo](https://github.com/Keeping-History/stirling)
+
+<br clear="left"/>
+
 ### MOOMP
 <img src="https://github.com/user-attachments/assets/49b0d88c-3e8b-4dda-829f-0e47692db5d3" width="350" align="left" />
 

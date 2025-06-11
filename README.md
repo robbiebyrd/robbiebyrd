@@ -1,24 +1,52 @@
-# Hi! I'm Robbie Byrd
+<h1>Hi! I'm Robbie Byrd</h1>
 
-<p>
-  <img src="https://github.com/user-attachments/assets/54c180c2-8519-4d18-a6b0-5bf1277dd21e" height="200" align="left" />
+## About me
+  <img src="https://github.com/user-attachments/assets/11ee1b5e-0c46-4f5d-bfbd-d42a3709a3b7" width="350" align="left" />
   I'm a seasoned Software Engineer with over 20 years of experience. I live in Austin, TX with my husband and our three dogs.
-</p>
 <br clear="left"/> 
-<p>
+<br clear="left"/>
+  <img src="https://github.com/user-attachments/assets/9b52a560-f3f9-4370-b581-512f967489ce" width="350" align="left" />
   I specialize in Full-Stack development, with an emphasis on systems architecture, platform growth & stability and design systems. My many years in technology include experience in a variety of business categories, technology challenges and novel techniques.
-</p>
-<p>
-  <img src="https://github.com/user-attachments/assets/8fbf0c99-8668-4be8-a9d3-5ccb2ed97e9b" height="200" align="left" />
+<br clear="left"/>
+<br clear="left"/>
+  <img src="https://github.com/user-attachments/assets/4bcf1624-0742-4c98-826c-74986a76c314" width="350" align="left" />
   My hobbies include the preservation of multimedia and history, smarthome technology, amateur radio, theatrical lighting and production, dogs and cycling with my dogs.
-</p>
 <br clear="left"/> 
-<p>
-  <img src="https://github.com/user-attachments/assets/f41b7c29-31cd-48e5-87eb-55df86e3fcd5" height="200" align="left" />
+<br clear="left"/>
+  <img src="https://github.com/user-attachments/assets/2dae2da7-4e0d-4ed6-a05d-cc0cb61ad8af" width="350" align="left" />
   Before my career in technology, I was a news reporter, covering crime and capital punishment, as well as a part-time DJ.
-</p>
----
+<br clear="left"/> 
+<br clear="left"/>
 
+## My Projects
+
+### Aye-Aye!
+<img src="https://github.com/user-attachments/assets/41344461-2809-4461-b9ee-a5980948bf1a" width="350" align="left" />
+
+Inspired by the British game show that started in 1982, this multiplayer online game pits two teams against one another in a match of letters and math(s).
+
+The game consists of three distinct rounds: the &#34;letters&#34; round, where players draw nine random letters and must compose the longest word they can; the &#34;numbers&#34; round, where players draw a random set of numbers and must reach a target number using only basic math operations; and the &#34;conundrum&#34; round, where users must solve a nine-letter anagram.
+
+[Play Aye-Aye Now!](https://aye-aye.robbiebyrd.com) | [View the Repo](https://github.com/robbiebyrd/aye-aye/)
+
+### MOOMP
+<img src="https://github.com/user-attachments/assets/49b0d88c-3e8b-4dda-829f-0e47692db5d3" width="350" align="left" />
+
+A re-creation of MOO, the famed text-based, massively-multiplayer online text game system developed at XEROX PARC MOOMP (short for 'MOO with MQTT, MongoEngine and Python') provides an asynchronous environment for building text based, open-world games. Users can connect to the game using Telnet (complete with graphics and colors), or with an HTML client, via Websockets. Users can add programmability to objects using a LUA-based scripting engine, and objects can inherit properties and code from parent objects.
+
+MOOMP was inititally created as a test-bed for autonomous, game-playing AI agents. AI agents can interact through a websocket connection interactively as a human player, or fire MQTT events to affect the game programmatically.
+
+[View the Repo](https://github.com/robbiebyrd/moomp/)
+
+
+### Classicy
+<img src="https://github.com/user-attachments/assets/7df101a1-d70c-41ab-a6de-893a06ef978b" width="350" align="left" />
+
+Classicy is a collection of React components that make it easy to add a customizable Webtop to your app with a unique & retro look.
+
+Classicy is a Webtop, framework. It provides a simulated desktop environment in a web browser. Classicy also provides a powerful and easy-to-use framework and library of components to “Classicyze” any React application. Classicy’s components are written in Typescript, and can be used with any React framework. Classicy emulates all the common items of a true Operating System and Graphical User Interface.
+
+[See a Demo!](https://demo.classicy.ing/) |  [Visit the Official Site](https://classicy.ing/) | [View the Repo](https://github.com/robbiebyrd/classicy/)
 
 
 <!--

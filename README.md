@@ -7,11 +7,13 @@ I'm a seasoned Software Engineer with over 20 years of experience in a wide rang
 
 <img src="https://skillicons.dev/icons?i=ts,go,python,js,html,css,sass,react,htmx,apple,aws,bootstrap,django,docker,dynamodb,fastapi,figma,gatsby,gcp,git,github,githubactions,graphql,jest,jquery,kafka,kubernetes,mongodb,mysql,nestjs,nginx,nodejs,npm,php,postgres,prisma,raspberrypi,redis,redux,remix,terraform,vercel,wordpress,xd,yarn" width="50%" />
 
+My favorite languages to use are Go, Python and Typescript, but I have experience in a diverse array of different langauges, frameworks and technologies.
+
 <br clear="left"/> 
 
 ## About me
   <img src="https://github.com/user-attachments/assets/11ee1b5e-0c46-4f5d-bfbd-d42a3709a3b7" width="350" align="left" />
-  I live in Austin, TX with my husband and our three dogs.
+  I live in Austin, TX with my husband and our three dogs. C.B. is an Italian Greyhound/Terrier Mix, Dax is a Yorkshire Terrier/Corgi mix, and Rust is an Australian Cattle Dog/Golden Retriever Mix. They live very, very, very comfortably.
 <br clear="left"/> 
 <br clear="left"/>
   <img src="https://github.com/user-attachments/assets/9b52a560-f3f9-4370-b581-512f967489ce" width="350" align="left" />
@@ -24,7 +26,33 @@ I'm a seasoned Software Engineer with over 20 years of experience in a wide rang
 <br clear="left"/>
   <img src="https://github.com/user-attachments/assets/2dae2da7-4e0d-4ed6-a05d-cc0cb61ad8af" width="350" align="left" />
   Before my career in technology, I was a news reporter, covering crime and capital punishment, as well as a part-time DJ.
-<br clear="left"/> 
+<br />
+
+Selected Works:
+
+<ul>
+<li>
+  <a href="https://removepaywalls.com/https://www.itemonline.com/news/local_news/man-executed-for-1994-murder/article_71ab30c8-43e0-5b83-958a-e6503b477ae0.html">
+    Man Executed for 1994 Murder
+  </a>
+</li> 
+<li>
+  <a href="https://removepaywalls.com/https://www.itemonline.com/news/local_news/informal-talks-opened-door-to-lethal-injection/article_c48882d1-39b2-5613-820c-eda28193d4e0.html">
+  Informal talks opened door to lethal injection
+  </a>
+</li>
+<li>
+  <a href="https://removepaywalls.com/https://www.itemonline.com/news/parents-vow-to-fight-against-the-choking-game-to-save-others/article_901424b1-06ed-5ee9-b982-3cf9f269cac2.html">
+  Parents vow to fight against 'the choking game' to save others
+  </a>
+</li>
+<li>
+  <a href="https://removepaywalls.com/https://www.itemonline.com/news/trinity-takes-over-subdivision/article_7d7ad68a-8f23-5d94-bd64-5dee738c41b8.html">
+  Trinity takes over subdivision
+  </a>
+</li>
+</ul>
+
 <br clear="left"/>
 
 ## My Projects

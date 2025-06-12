@@ -1,9 +1,11 @@
 <h1>Hi! I'm Robbie Byrd</h1>
-
 <br clear="left"/> 
 
 <img src="https://github.com/user-attachments/assets/4cc3ca61-d372-4703-80c7-ed9683dc2d90" width="350" align="left" />
-I'm a seasoned Software Engineer with over 20 years of experience. 
+
+I'm a seasoned Software Engineer with over 20 years of experience in a wide range of technologies and business categories.
+
+<img src="https://skillicons.dev/icons?i=ts,go,python,js,html,css,sass,react,htmx,apple,aws,bootstrap,django,docker,dynamodb,fastapi,figma,gatsby,gcp,git,github,githubactions,graphql,jest,jquery,kafka,kubernetes,mongodb,mysql,nestjs,nginx,nodejs,npm,php,postgres,prisma,raspberrypi,redis,redux,remix,terraform,vercel,wordpress,xd,yarn" width="50%" />
 
 <br clear="left"/> 
 

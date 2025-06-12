@@ -1,5 +1,7 @@
 <h1>Hi! I'm Robbie Byrd</h1>
 
+<br clear="left"/> 
+
 <img src="https://github.com/user-attachments/assets/4cc3ca61-d372-4703-80c7-ed9683dc2d90" width="350" align="left" />
 I'm a seasoned Software Engineer with over 20 years of experience. 
 
@@ -85,6 +87,14 @@ Classicy is a collection of React components that make it easy to add a customiz
 Classicy is a Webtop, framework. It provides a simulated desktop environment in a web browser. Classicy also provides a powerful and easy-to-use framework and library of components to “Classicyze” any React application. Classicy’s components are written in Typescript, and can be used with any React framework. Classicy emulates all the common items of a true Operating System and Graphical User Interface.
 
 [See a Demo!](https://demo.classicy.ing/) |  [Visit the Site](https://classicy.ing/) | [View the Repo](https://github.com/robbiebyrd/classicy/)
+
+<br clear="left"/>
+
+---
+
+
+<img width="45%" src='https://github-readme-stats.vercel.app/api?username=robbiebyrd&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' align="left" />
+<img width="50%" src='https://streak-stats.demolab.com?user=robbiebyrd&theme=vue-dark&hide_border=true' align="left" />
 
 <!--
 **robbiebyrd/robbiebyrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

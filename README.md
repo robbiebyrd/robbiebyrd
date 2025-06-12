@@ -86,7 +86,6 @@ The game consists of three distinct rounds: the &#34;letters&#34; round, where p
 
 <br clear="left"/>
 
-
 ### Stirling Engine
 <img src="https://github.com/user-attachments/assets/9f8a2bd3-c3e5-4a00-98b6-365f3433b366" width="350" align="left" />
 
@@ -120,8 +119,7 @@ Classicy is a Webtop, framework. It provides a simulated desktop environment in 
 
 <br clear="left"/>
 
----
-
+## My Stats
 
 <img width="45%" src='https://github-readme-stats.vercel.app/api?username=robbiebyrd&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' align="left" />
 <img width="50%" src='https://streak-stats.demolab.com?user=robbiebyrd&theme=vue-dark&hide_border=true' align="left" />

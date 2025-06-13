@@ -13,7 +13,7 @@ My favorite languages to use are Go, Python and Typescript, but I have experienc
 
 ## About me
   <img src="https://github.com/user-attachments/assets/11ee1b5e-0c46-4f5d-bfbd-d42a3709a3b7" width="350" align="left" />
-  I live in Austin, TX with my husband and our three dogs. C.B. is an Italian Greyhound/Terrier Mix, Dax is a Yorkshire Terrier/Corgi mix, and Rust is an Australian Cattle Dog/Golden Retriever Mix. They live very, very, very comfortably.
+  I live in Austin, TX with my husband and our three dogs. C.B. is an Italian Greyhound/Terrier Mix, Dax is a Yorkshire Terrier/Corgi mix, and Rusty is an Australian Cattle Dog/Golden Retriever Mix. They live very, very, very comfortably.
 <br clear="left"/> 
 <br clear="left"/>
   <img src="https://github.com/user-attachments/assets/9b52a560-f3f9-4370-b581-512f967489ce" width="350" align="left" />

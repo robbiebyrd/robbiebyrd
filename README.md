@@ -7,7 +7,7 @@ I'm a seasoned Software Engineer with over 20 years of experience in a wide rang
 
 <img src="https://skillicons.dev/icons?i=ts,go,python,js,html,css,sass,react,htmx,apple,aws,bootstrap,django,docker,dynamodb,fastapi,figma,gatsby,gcp,git,github,githubactions,graphql,jest,jquery,kafka,kubernetes,mongodb,mysql,nestjs,nginx,nodejs,npm,php,postgres,prisma,raspberrypi,redis,redux,remix,terraform,vercel,wordpress,xd,yarn" width="50%" />
 
-My favorite languages to use are Go, Python and Typescript, but I have experience in a diverse array of different langauges, frameworks and technologies.
+My favorite languages to use are Go, Python and Typescript, but I have experience in a diverse array of different languages, frameworks and technologies.
 
 <br clear="left"/> 
 
@@ -21,7 +21,7 @@ My favorite languages to use are Go, Python and Typescript, but I have experienc
 <br clear="left"/>
 <br clear="left"/>
   <img src="https://github.com/user-attachments/assets/4bcf1624-0742-4c98-826c-74986a76c314" width="350" align="left" />
-  My hobbies include the preservation of multimedia and history, smarthome technology, amateur radio, theatrical lighting and production, dogs and cycling with my dogs.
+  My hobbies include the preservation of multimedia and history, Smart Home technology, amateur radio, theatrical lighting and production, dogs and cycling with my dogs.
 <br clear="left"/> 
 <br clear="left"/>
   <img src="https://github.com/user-attachments/assets/2dae2da7-4e0d-4ed6-a05d-cc0cb61ad8af" width="350" align="left" />
@@ -103,9 +103,9 @@ Stirling also can re-encode media using modern, stream-ready standards, and pack
 ### MOOMP
 <img src="https://github.com/user-attachments/assets/49b0d88c-3e8b-4dda-829f-0e47692db5d3" width="350" align="left" />
 
-A re-creation of MOO, the famed text-based, massively-multiplayer online text game system developed at XEROX PARC MOOMP (short for 'MOO with MQTT, MongoEngine and Python') provides an asynchronous environment for building text based, open-world games. Users can connect to the game using Telnet (complete with graphics and colors), or with an HTML client, via Websockets. Users can add programmability to objects using a LUA-based scripting engine, and objects can inherit properties and code from parent objects.
+A re-creation of MOO, the famed text-based, massively-multiplayer online text game system developed at XEROX PARC MOOMP (short for 'MOO with MQTT, MongoEngine and Python') provides an asynchronous environment for building text based, open-world games. Users can connect to the game using Telnet (complete with graphics and colors), or with an HTML client via a Websocket connection. Users can add programmability to objects using a LUA-based scripting engine, and objects can inherit properties and code from parent objects.
 
-MOOMP was inititally created as a test-bed for autonomous, game-playing AI agents. AI agents can interact through a websocket connection interactively as a human player, or fire MQTT events to affect the game programmatically.
+MOOMP was initially created as a test-bed for autonomous, game-playing AI agents. AI agents can interact through a Websocket connection interactively as a human player, or fire MQTT events to affect the game programmatically.
 
 [View the Repo](https://github.com/robbiebyrd/moomp/)
 

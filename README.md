@@ -66,12 +66,14 @@ The 9/11 Realtime Experience: an immersive, real-time experience of publicly ava
 
 <br clear="left"/>
 
-### KeepingHistory.org
-<img src="https://github.com/user-attachments/assets/624af720-81e5-4a18-ad03-d495a83e26ae" width="350" align="left" />
+### Classicy
+<img src="https://github.com/user-attachments/assets/7df101a1-d70c-41ab-a6de-893a06ef978b" width="350" align="left" />
 
-Keeping History is an open source initiative to save, categorize and analyze history through multimedia. Keeping History is a collection of engineers who aim to save history.
+Classicy is a collection of React components that make it easy to add a customizable Webtop to your app with a unique & retro look.
 
-[Visit the Site](https://keepinghistory.org/) | [View our Github](http://github.com/keeping-history/)
+Classicy is a Webtop, framework. It provides a simulated desktop environment in a web browser. Classicy also provides a powerful and easy-to-use framework and library of components to “Classicyze” any React application. Classicy’s components are written in Typescript, and can be used with any React framework. Classicy emulates all the common items of a true Operating System and Graphical User Interface.
+
+[See a Demo!](https://demo.classicy.ing/) |  [Visit the Site](https://classicy.ing/) | [View the Repo](https://github.com/robbiebyrd/classicy/)
 
 <br clear="left"/>
 
@@ -108,14 +110,12 @@ MOOMP was inititally created as a test-bed for autonomous, game-playing AI agent
 
 <br clear="left"/>
 
-### Classicy
-<img src="https://github.com/user-attachments/assets/7df101a1-d70c-41ab-a6de-893a06ef978b" width="350" align="left" />
+### KeepingHistory.org
+<img src="https://github.com/user-attachments/assets/624af720-81e5-4a18-ad03-d495a83e26ae" width="350" align="left" />
 
-Classicy is a collection of React components that make it easy to add a customizable Webtop to your app with a unique & retro look.
+Keeping History is an open source initiative to save, categorize and analyze history through multimedia. Keeping History is a collection of engineers who aim to save history.
 
-Classicy is a Webtop, framework. It provides a simulated desktop environment in a web browser. Classicy also provides a powerful and easy-to-use framework and library of components to “Classicyze” any React application. Classicy’s components are written in Typescript, and can be used with any React framework. Classicy emulates all the common items of a true Operating System and Graphical User Interface.
-
-[See a Demo!](https://demo.classicy.ing/) |  [Visit the Site](https://classicy.ing/) | [View the Repo](https://github.com/robbiebyrd/classicy/)
+[Visit the Site](https://keepinghistory.org/) | [View our Github](http://github.com/keeping-history/)
 
 <br clear="left"/>
 

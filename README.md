@@ -1,7 +1,7 @@
 <h1>Hi! I'm Robbie Byrd</h1>
 <br clear="left"/> 
 
-<img src="https://github.com/user-attachments/assets/7ace7a9d-a888-43e4-8c2f-d0ca7f32ffe5" width="350" align="left" />
+<img src="https://github.com/user-attachments/assets/7ace7a9d-a888-43e4-8c2f-d0ca7f32ffe5" width="50%" align="left" />
 
 I'm a seasoned Software Engineer with over 20 years of experience in a wide range of technologies and business categories.
 

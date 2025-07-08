@@ -2,10 +2,10 @@
 <br clear="left"/> 
 
 <img src="https://github.com/user-attachments/assets/7ace7a9d-a888-43e4-8c2f-d0ca7f32ffe5" width="50%" align="left" />
+<img src="https://skillicons.dev/icons?i=ts,go,python,js,html,css,sass,react,htmx,apple,aws,bootstrap,django,docker,dynamodb,fastapi,figma,gatsby,gcp,git,github,githubactions,graphql,jest,jquery,kafka,kubernetes,mongodb,mysql,nestjs,nginx,nodejs,npm,php,postgres,prisma,raspberrypi,redis,redux,remix,terraform,vercel,wordpress,xd,yarn" width="50%" align="left"  />
 
 I'm a seasoned Software Engineer with over 20 years of experience in a wide range of technologies and business categories.
 
-<img src="https://skillicons.dev/icons?i=ts,go,python,js,html,css,sass,react,htmx,apple,aws,bootstrap,django,docker,dynamodb,fastapi,figma,gatsby,gcp,git,github,githubactions,graphql,jest,jquery,kafka,kubernetes,mongodb,mysql,nestjs,nginx,nodejs,npm,php,postgres,prisma,raspberrypi,redis,redux,remix,terraform,vercel,wordpress,xd,yarn" width="50%" />
 
 My favorite languages to use are Go, Python and Typescript, but I have experience in a diverse array of different languages, frameworks and technologies.
 

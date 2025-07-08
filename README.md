@@ -27,6 +27,7 @@ My favorite languages to use are Go, Python and Typescript, but I have experienc
   <img src="https://github.com/user-attachments/assets/2dae2da7-4e0d-4ed6-a05d-cc0cb61ad8af" width="50%" align="left" />
   Before my career in technology, I was a news reporter, covering crime and capital punishment, as well as a part-time DJ.
 <br />
+<br />
 
 Selected Works:
 

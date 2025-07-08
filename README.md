@@ -122,8 +122,9 @@ Keeping History is an open source initiative to save, categorize and analyze his
 
 ## My Stats
 
-<img width="65%" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robbiebyrd&theme=transparent' align='left' />
-<img width="30%" src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robbiebyrd&theme=transparent&utcOffset=-5' align='left' />
+<img width="100%" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robbiebyrd&theme=transparent' />
+<img width="47%" src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robbiebyrd&theme=transparent&utcOffset=-5' align='left' />
+<img width="47%" src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robbiebyrd&theme=transparent&utcOffset=-5' align='left' />
 
 <br clear="left"/>
 

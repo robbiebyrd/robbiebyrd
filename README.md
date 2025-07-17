@@ -59,7 +59,9 @@ Selected Works:
 ## My Projects
 
 ### 911realtime.org
-<img src="https://github.com/user-attachments/assets/110a58b0-f4ec-4496-a326-df98fea5044c" width="50%" align="left" />
+<a href="https://911realtime.org/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/110a58b0-f4ec-4496-a326-df98fea5044c" width="50%" align="left" />
+</a>
 
 The 9/11 Realtime Experience: an immersive, real-time experience of publicly available media from September 11, 2001.
 
@@ -69,7 +71,9 @@ The 9/11 Realtime Experience: an immersive, real-time experience of publicly ava
 
 
 ### Classicy
-<img src="https://github.com/user-attachments/assets/7df101a1-d70c-41ab-a6de-893a06ef978b" width="50%" align="left" />
+<a href="https://classicy.ing" target="_blank">
+  <img src="https://github.com/user-attachments/assets/7df101a1-d70c-41ab-a6de-893a06ef978b" width="50%" align="left" />
+</a>
 
 Classicy is a collection of React components that make it easy to add a customizable Webtop to your app with a unique & retro look.
 
@@ -80,7 +84,9 @@ Classicy is a Webtop, framework. It provides a simulated desktop environment in 
 <br clear="left"/>
 
 ### Aye-Aye!
-<img src="https://github.com/user-attachments/assets/41344461-2809-4461-b9ee-a5980948bf1a" width="50%" align="left" />
+<a href="https://aye-aye.robbiebyrd.com" target="_blank">
+  <img src="https://github.com/user-attachments/assets/41344461-2809-4461-b9ee-a5980948bf1a" width="50%" align="left" />
+</a>
 
 Inspired by the British game show that started in 1982, this multiplayer online game pits two teams against one another in a match of letters and math(s).
 
@@ -91,7 +97,9 @@ The game consists of three distinct rounds: the &#34;letters&#34; round, where p
 <br clear="left"/>
 
 ### Stirling Engine
-<img src="https://github.com/user-attachments/assets/9f8a2bd3-c3e5-4a00-98b6-365f3433b366" width="50%" align="left" />
+<a href="https://github.com/Keeping-History/stirling" target="_blank">
+  <img src="https://github.com/user-attachments/assets/9f8a2bd3-c3e5-4a00-98b6-365f3433b366" width="50%" align="left" />
+</a>
 
 The Stirling Engine is meant to be a lightweight, efficient way to process incoming media files. A Stirling Job can normalize uploaded media, extract data from the media and analyze it for additional data enhancements, such as subtitles or metadata.
 
@@ -102,19 +110,22 @@ Stirling also can re-encode media using modern, stream-ready standards, and pack
 <br clear="left"/>
 
 ### MOOMP
-<img src="https://github.com/user-attachments/assets/49b0d88c-3e8b-4dda-829f-0e47692db5d3" width="50%" align="left" />
+<a href="https://github.com/robbiebyrd/moomp" target="_blank">
+  <img src="https://github.com/user-attachments/assets/49b0d88c-3e8b-4dda-829f-0e47692db5d3" width="50%" align="left" />
+</a>
 
 A re-creation of MOO, the famed text-based, massively-multiplayer online text game system developed at XEROX PARC MOOMP (short for 'MOO with MQTT, MongoEngine and Python') provides an asynchronous environment for building text based, open-world games. Users can connect to the game using Telnet (complete with graphics and colors), or with an HTML client via a Websocket connection. Users can add programmability to objects using a LUA-based scripting engine, and objects can inherit properties and code from parent objects.
 
 MOOMP was initially created as a test-bed for autonomous, game-playing AI agents. AI agents can interact through a Websocket connection interactively as a human player, or fire MQTT events to affect the game programmatically.
 
-[View the Repo](https://github.com/robbiebyrd/moomp/)
+[View the Repo](https://github.com/robbiebyrd/moomp/) | [Join the Game](telnet://moomp.robbiebyrd.com:7890)
 
 <br clear="left"/>
 
 ### KeepingHistory.org
-<img src="https://github.com/user-attachments/assets/624af720-81e5-4a18-ad03-d495a83e26ae" width="50%" align="left" />
-
+<a href="https://keepinghistory.org" target="_blank">
+  <img src="https://github.com/user-attachments/assets/624af720-81e5-4a18-ad03-d495a83e26ae" width="50%" align="left" />
+</a>
 Keeping History is an open source initiative to save, categorize and analyze history through multimedia. Keeping History is a collection of engineers who aim to save history.
 
 [Visit the Site](https://keepinghistory.org/) | [View our Github](http://github.com/keeping-history/)
@@ -122,7 +133,9 @@ Keeping History is an open source initiative to save, categorize and analyze his
 <br clear="left"/>
 
 ### Space Hippo, an Exploration Agency
-<img src="https://github.com/user-attachments/assets/e2d27fb2-07b6-4aec-8d22-224a94219cac" width="50%" align="left" />
+<a href="http://gospacehippo.com" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e2d27fb2-07b6-4aec-8d22-224a94219cac" width="50%" align="left" />
+</a>
 
 Space Hippo is a boutique digital design and marketing agency using beautiful visuals and custom-built technology to help marketers and technologists reach new heights.
 

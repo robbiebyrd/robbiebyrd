@@ -121,6 +121,17 @@ Keeping History is an open source initiative to save, categorize and analyze his
 
 <br clear="left"/>
 
+### Space Hippo, an Exploration Agency
+<img src="https://github.com/user-attachments/assets/e2d27fb2-07b6-4aec-8d22-224a94219cac" width="50%" align="left" />
+
+Space Hippo is a boutique digital design and marketing agency using beautiful visuals and custom-built technology to help marketers and technologists reach new heights.
+
+Space Hippo is my "freelance" entity, as well as a showcase of my design skills.
+
+[Visit the Site](http://gospacehippo.com) | [View the Styleguide](https://gospacehippo.com/rsrc/space-hippo-2024-brand-navigation.pdf)
+
+<br clear="left"/>
+
 ## My Stats
 
 <img width="100%" src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robbiebyrd&theme=transparent' />

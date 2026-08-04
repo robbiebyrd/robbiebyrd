@@ -144,6 +144,7 @@ Space Hippo is my "freelance" entity, as well as a showcase of my design skills.
 [Visit the Site](http://gospacehippo.com) | [View the Styleguide](https://gospacehippo.com/rsrc/space-hippo-2024-brand-navigation.pdf)
 
 <br clear="left"/>
+<!--  
 
 ## My Stats
 
@@ -152,7 +153,7 @@ Space Hippo is my "freelance" entity, as well as a showcase of my design skills.
 <img width="47%" src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robbiebyrd&theme=transparent&utcOffset=-5' align='left' />
 
 <br clear="left"/>
-
+-->
 ## Contact
 
 [me@robbiebyrd.com](mailto:me@robbiebyrd.com)
